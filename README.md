@@ -38,7 +38,6 @@ AmazeGaming runs as a background service monitoring the **Foreground Window**. W
 
 * **C# / .NET 4.8**
 * **Win32 API / ntdll.dll** (Low-level system calls)
-* **Inno Setup** (Multilingual Installer)
 * **WinRing0** (Kernel-level driver access library)
 
 ## Disclaimer
